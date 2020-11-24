@@ -25,6 +25,10 @@ R package to visualise gene annotation tracks.
 
 R package to create metadata profiles for NGS data.
 
+## [Mimisbrunnr](https://github.com/fagostini/Mimisbrunnr) | private
+
+Python nuclei segmentation and classification with deep learning.
+
 ## [Seidr](https://github.com/fagostini/Seidr) | private
 
 C++ (and Kokkos) implementation of homology search using an indexed reference.
